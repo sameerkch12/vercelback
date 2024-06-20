@@ -9,6 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "got": "^11.8.3",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "nayan-media-downloader": "^2.3.3",
